@@ -10,6 +10,7 @@ class color:
     UNDERLINE = '\033[4m'
     END = '\033[0m'
 
+
 # Reading the sequence from the text file and set the value for alignment
 f1 = open("ReferenceSequence.txt", "r")
 if f1.mode == "r":
