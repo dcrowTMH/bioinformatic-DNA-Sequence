@@ -1,1 +1,1 @@
-# Hi there. This is Dcrow. A newbie to Python coding. I am trying to write some programme about DNA sequencing and bioinfomatic.
+# Here is the Python program for single sequence alignment with the reference alignment. It is aim to dertermine any mutation for the target sequence compare with the original sequence. It is still in progress for the development but it can be used for single alignment at this moment. Thanks for the reading!
